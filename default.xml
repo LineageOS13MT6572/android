@@ -37,7 +37,7 @@
   <project path="device/generic/goldfish" name="LineageOS/android_device_generic_goldfish" groups="pdk" />
   <project path="device/generic/mips" name="LineageOS/android_device_generic_mips" groups="pdk" />
   <project path="device/google/atv" name="LineageOS/android_device_google_atv" groups="device,fugu,broadcom_pdk,generic_fs" />
-  <project path="device/qcom/sepolicy" name="LineageOS13MT6572/android_device_qcom_sepolicy" />
+  <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" />
   <project path="external/ahbottomnavigation" name="LineageOS/android_external_ahbottomnavigation" />
   <project path="external/android-clat" name="LineageOS/android_external_android-clat" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/android-mock" name="LineageOS/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" />
@@ -122,7 +122,7 @@
   <project path="external/powertop" name="LineageOS/android_external_powertop" />
   <project path="external/protobuf-c" name="LineageOS/android_external_protobuf-c" />
   <project path="external/rsync" name="LineageOS/android_external_rsync" />
-  <project path="external/sepolicy" name="LineageOS/android_external_sepolicy" groups="pdk" />
+  <project path="external/sepolicy" name="LineageOS13MT6572/android_external_sepolicy" groups="pdk" />
   <project path="external/skia" name="LineageOS/android_external_skia" groups="pdk,qcom_msm8x26" />
   <project path="external/sonivox" name="LineageOS/android_external_sonivox" groups="pdk" />
   <project path="external/speex" name="LineageOS/android_external_speex" groups="pdk" />
